@@ -1,5 +1,6 @@
 
 Extensions:
+- Cleanup/comment code
 - More variation in obstacles
 - Delete old obstacles when off screen
 - 'Ground' floor? (could be larger spaceship thing)
