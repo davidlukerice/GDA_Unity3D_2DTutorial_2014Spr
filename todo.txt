@@ -1,13 +1,12 @@
 
 Extensions:
-- Cleanup/comment code
 - More variation in obstacles
-- Delete old obstacles when off screen
+- lower the delta spawn time the longer the game lasts (making the game harder)
 - 'Ground' floor? (could be larger spaceship thing)
 - animation zombie animation
 - Weight the physics on the front of the hero (for rotating up and down when falling/flying)
 - add random weight on death to make the hero fly crazily
 - 'space' to start / restart the game
-- Show best on death or during game
-- Add a coin to collect
+- Show best score on death or during game
+- Add a coin to collect? or other goals
 - Add sounds / music
