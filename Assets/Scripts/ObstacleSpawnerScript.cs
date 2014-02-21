@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Obstacle : MonoBehaviour {
-
-	public float speed = 1.0f;
+public class ObstacleSpawnerScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -12,6 +10,6 @@ public class Obstacle : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		this.transform.Translate(Vector3.left * this.speed * Time.deltaTime);
+	
 	}
 }
