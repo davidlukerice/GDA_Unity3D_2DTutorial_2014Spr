@@ -1,8 +1,12 @@
 
 Extensions:
 - More variation in obstacles
+- Delete old obstacles when off screen
+- 'Ground' floor? (could be larger spaceship thing)
+- animation zombie animation
 - Weight the physics on the front of the hero (for rotating up and down when falling/flying)
 - add random weight on death to make the hero fly crazily
 - 'space' to start / restart the game
+- Show best on death or during game
 - Add a coin to collect
 - Add sounds / music
