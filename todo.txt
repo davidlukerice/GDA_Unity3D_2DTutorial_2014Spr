@@ -1,5 +1,6 @@
 
 Extensions:
+- fix: Game over text behind spaceships
 - More variation in obstacles
 - lower the delta spawn time the longer the game lasts (making the game harder)
 - 'Ground' floor? (could be larger spaceship thing)
